@@ -1,0 +1,113 @@
+import time
+
+import pytest
+from behave import *
+from selenium import webdriver
+
+import pages.ElementosPage
+from configuration.config import Datatest
+from pages.ElementosPage import ElementsPage
+from pages.Navegador import Funciones_driver
+from pages.Funciones import Funciones_epidata
+from selenium.webdriver.common.by  import By
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
+from pages.ActionUi import ActionUI
+
+t=0.2
+
+@given(u'iniciando Navegador')
+def step_impl(context):
+    global elementos,navegador,driver,data,base,act,action
+    navegador=Funciones_driver
+    navegador.driver_Firefox(context , "C:\drivers\geckodriver.exe" )
+    base=Funciones_epidata(context.driver)
+    base.Navegar(Datatest.URL,t)
+    elementos=ElementsPage(context.driver)
+    action=ActionUI(context.driver)
+    act=ActionChains(context.driver)
+
+
+
+@when(u'Escribiendo nombre "{Nombre}" y "{Apellido}"')
+def ingresandoNombreyApellido(context,Nombre,Apellido):
+    try:
+        ElementsPage.IngresarNombre(context,Nombre)
+        ElementsPage.IngresarApellido(context,Apellido)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en : Escribiendo nombre '{Nombre}' y '{Apellido}'"
+
+@when(u'Escribiendo  email "{email}"')
+def IngresarEmail(context,email):
+    try:
+        ElementsPage.IngresarEmail(context, email)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en :Escribiendo  email '{email}' "
+
+
+@then(u'Seleccionando Genero')
+def SeleccionarGenereo(context):
+    try:
+        ElementsPage.Selec_Gen(context)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en : Seleccionando Genero"
+
+@then(u'Escribiendo Numero de celular "1150163630"')
+def IngresarNumero(context):
+    try:
+        ElementsPage.IngresoNum(context)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en : " \
+                      "Escribiendo Numero " \
+                      "de celular '1150163630' "
+
+@pytest.fixture(scope='module')
+
+@then(u'Seleccionando Subjects')
+def SubjectS(context):
+    try:
+        ElementsPage.subject(context)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en : Seleccionando Subjects"
+
+
+@then(u'Seleccionando Hobbies')
+def Hobbies(context):
+    try:
+        ElementsPage.ClickH(context)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en : Seleccionando Hobbies"
+
+@then(u'Cargando Archivo')
+def UpArchivos(context):
+    try:
+        ElementsPage.Up_Png(context)
+    except:
+        context.driver.close()
+        assert False, "La prueba fallo en : Cargando Archivo"
+
+#
+# @then(u'Seleccionando Estado y ciudad, pulsamos boton Submit,se visualiza modulo de formulario')
+# def StateandCity(context):
+#     try:
+#         ElementsPage.state(context)
+#         ElementsPage.city(context)
+#         ElementsPage.BtnSubmit(context)
+#         time.sleep(2)
+#         base.extractorTXT("xpath","//div[contains(@class,'modal-title h4')]",Datatest.TXT,"w",t)
+#     except:
+#         context.driver.close()
+#
+#         assert False, "La prueba fallo en : Seleccion de estado y ciudad"
+
+    context.driver.close()
+
+
+
+

@@ -1,0 +1,604 @@
+1669903964933	geckodriver	INFO	Listening on 127.0.0.1:57712
+1669903968000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileR10Eih"
+1669903968401	Marionette	INFO	Marionette enabled
+1669903968406	Marionette	INFO	Listening on port 57722
+Read port: 57722
+WebDriver BiDi listening on ws://127.0.0.1:57713
+1669903968555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileR10Eih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57713/devtools/browser/f01a37df-462e-4ca0-b4f5-dcc20eaa1b8d
+1669903970693	geckodriver	INFO	Listening on 127.0.0.1:57735
+1669903973736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileUXP4yU"
+1669903974164	Marionette	INFO	Marionette enabled
+1669903974171	Marionette	INFO	Listening on port 57758
+Read port: 57758
+WebDriver BiDi listening on ws://127.0.0.1:57736
+1669903974335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileUXP4yU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57736/devtools/browser/c0443e5e-045d-40fc-aeb1-fffafcfb8df4
+1669904010248	geckodriver	INFO	Listening on 127.0.0.1:62882
+1669904013300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileFqypiA"
+1669904013677	Marionette	INFO	Marionette enabled
+1669904013683	Marionette	INFO	Listening on port 62894
+Read port: 62894
+WebDriver BiDi listening on ws://127.0.0.1:62883
+1669904013811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileFqypiA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62883/devtools/browser/33f12971-d360-414b-92cb-22b820f2e5fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904020751	geckodriver	INFO	Listening on 127.0.0.1:62930
+1669904023835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilecDAXMH"
+1669904024187	Marionette	INFO	Marionette enabled
+1669904024191	Marionette	INFO	Listening on port 62941
+Read port: 62941
+WebDriver BiDi listening on ws://127.0.0.1:62931
+1669904024360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilecDAXMH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62931/devtools/browser/4e9791bd-3e3c-46b6-98f9-2a7b3cc240fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904049206	geckodriver	INFO	Listening on 127.0.0.1:63054
+1669904052268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilesNZGij"
+1669904052631	Marionette	INFO	Marionette enabled
+1669904052636	Marionette	INFO	Listening on port 63065
+Read port: 63065
+WebDriver BiDi listening on ws://127.0.0.1:63055
+1669904052800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilesNZGij\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63055/devtools/browser/f435d61f-958d-4dc7-91d9-880350ce328f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904059451	geckodriver	INFO	Listening on 127.0.0.1:63107
+1669904062522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileMvVpzj"
+1669904062873	Marionette	INFO	Marionette enabled
+1669904062879	Marionette	INFO	Listening on port 63117
+Read port: 63117
+WebDriver BiDi listening on ws://127.0.0.1:63108
+1669904063049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileMvVpzj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63108/devtools/browser/798d0649-8c41-4e93-9317-7eeafc68aa4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904700673	geckodriver	INFO	Listening on 127.0.0.1:54258
+1669904703742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileAPPa11"
+1669904704311	Marionette	INFO	Marionette enabled
+1669904704316	Marionette	INFO	Listening on port 54270
+Read port: 54270
+WebDriver BiDi listening on ws://127.0.0.1:54259
+1669904704483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileAPPa11\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54259/devtools/browser/0786d8f1-9e7e-43eb-b6e8-11e2a0784330
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904903470	geckodriver	INFO	Listening on 127.0.0.1:54338
+1669904906535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDEQMWI"
+1669904906926	Marionette	INFO	Marionette enabled
+1669904906932	Marionette	INFO	Listening on port 54348
+Read port: 54348
+WebDriver BiDi listening on ws://127.0.0.1:54339
+1669904907080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDEQMWI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54339/devtools/browser/d6bee28c-21d1-468c-838f-b367c119ccfd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904941094	geckodriver	INFO	Listening on 127.0.0.1:54387
+1669904944146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilesJaEHz"
+1669904944526	Marionette	INFO	Marionette enabled
+1669904944530	Marionette	INFO	Listening on port 54397
+Read port: 54397
+WebDriver BiDi listening on ws://127.0.0.1:54388
+1669904944672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilesJaEHz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54388/devtools/browser/f2206f22-96bc-42c8-bc6d-a2e937ae64ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669904990373	geckodriver	INFO	Listening on 127.0.0.1:54442
+1669904993432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilevQcmWY"
+1669904993909	Marionette	INFO	Marionette enabled
+1669904993914	Marionette	INFO	Listening on port 54455
+Read port: 54455
+WebDriver BiDi listening on ws://127.0.0.1:54443
+1669904994102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilevQcmWY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54443/devtools/browser/d070fc1c-bfc6-491a-bad2-c3cb1f4077c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669905001504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669905137134	geckodriver	INFO	Listening on 127.0.0.1:54599
+1669905140211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDTrFLy"
+1669905140631	Marionette	INFO	Marionette enabled
+1669905140636	Marionette	INFO	Listening on port 54609
+Read port: 54609
+WebDriver BiDi listening on ws://127.0.0.1:54600
+1669905140800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDTrFLy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54600/devtools/browser/8fbc1caa-3d2c-4399-b8c4-cfb2ecb0405f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669905148274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669905173581	geckodriver	INFO	Listening on 127.0.0.1:54650
+1669905176637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileWyd1e5"
+1669905177109	Marionette	INFO	Marionette enabled
+1669905177117	Marionette	INFO	Listening on port 54660
+Read port: 54660
+WebDriver BiDi listening on ws://127.0.0.1:54651
+1669905177312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileWyd1e5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54651/devtools/browser/5c6434e3-3ea9-484f-9cdd-78f888ff3cfc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669905184226	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669905210871	geckodriver	INFO	Listening on 127.0.0.1:54706
+1669905213927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofiledOhwNM"
+1669905214302	Marionette	INFO	Marionette enabled
+1669905214308	Marionette	INFO	Listening on port 54716
+Read port: 54716
+WebDriver BiDi listening on ws://127.0.0.1:54707
+1669905214495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofiledOhwNM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54707/devtools/browser/85e989ad-fbaa-4d1a-8e5c-5c324f8870af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669905222712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669905262123	geckodriver	INFO	Listening on 127.0.0.1:54762
+1669905265208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile8Vpv2H"
+1669905265603	Marionette	INFO	Marionette enabled
+1669905265608	Marionette	INFO	Listening on port 54772
+Read port: 54772
+WebDriver BiDi listening on ws://127.0.0.1:54763
+1669905265758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile8Vpv2H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54763/devtools/browser/4a13588a-78f6-48f6-afbb-6f53dc3b5f93
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669905719194	geckodriver	INFO	Listening on 127.0.0.1:55865
+1669905722246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilevK4XbT"
+1669905748787	geckodriver	INFO	Listening on 127.0.0.1:55927
+1669905751873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileHVs6Zr"
+1669905752323	Marionette	INFO	Marionette enabled
+1669905752332	Marionette	INFO	Listening on port 55942
+Read port: 55942
+WebDriver BiDi listening on ws://127.0.0.1:55928
+1669905752641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileHVs6Zr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55928/devtools/browser/54bd7fcc-7fb2-4459-a1c5-76720fb78334
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669905784599	geckodriver	INFO	Listening on 127.0.0.1:56006
+1669905787661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile0SzX6K"
+1669905788128	Marionette	INFO	Marionette enabled
+1669905788134	Marionette	INFO	Listening on port 56022
+Read port: 56022
+WebDriver BiDi listening on ws://127.0.0.1:56007
+1669905788307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile0SzX6K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56007/devtools/browser/1beb7932-5e83-4d79-9d2d-41f24a4eedf2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669906075619	geckodriver	INFO	Listening on 127.0.0.1:56250
+1669906078691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileFA7M16"
+1669906079088	Marionette	INFO	Marionette enabled
+1669906079094	Marionette	INFO	Listening on port 56261
+Read port: 56261
+WebDriver BiDi listening on ws://127.0.0.1:56251
+1669906079247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileFA7M16\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56251/devtools/browser/01fa54fb-2326-4ec9-92b3-96ef9db70928
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669906102569	geckodriver	INFO	Listening on 127.0.0.1:56321
+1669906105642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilecslNpk"
+1669906106095	Marionette	INFO	Marionette enabled
+1669906106104	Marionette	INFO	Listening on port 56333
+Read port: 56333
+WebDriver BiDi listening on ws://127.0.0.1:56322
+1669906106312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilecslNpk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56322/devtools/browser/f43d8ce7-bde3-4438-a604-0405175fde2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669906520108	geckodriver	INFO	Listening on 127.0.0.1:56993
+1669906523158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilezDSuXd"
+1669906523595	Marionette	INFO	Marionette enabled
+1669906523602	Marionette	INFO	Listening on port 57005
+Read port: 57005
+WebDriver BiDi listening on ws://127.0.0.1:56994
+1669906523847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilezDSuXd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56994/devtools/browser/1965a17e-4d66-4c50-a070-73cd65d145f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669906547850	geckodriver	INFO	Listening on 127.0.0.1:57057
+1669906550911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileKfWnsA"
+1669906551335	Marionette	INFO	Marionette enabled
+1669906551343	Marionette	INFO	Listening on port 57069
+Read port: 57069
+WebDriver BiDi listening on ws://127.0.0.1:57058
+1669906551574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileKfWnsA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57058/devtools/browser/7da2a016-a7fb-48e3-b24d-ffe4c7e94287
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669906559106	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669906637206	geckodriver	INFO	Listening on 127.0.0.1:57173
+1669906640274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileOMbac9"
+1669906640804	Marionette	INFO	Marionette enabled
+1669906640813	Marionette	INFO	Listening on port 57187
+Read port: 57187
+WebDriver BiDi listening on ws://127.0.0.1:57174
+1669906641007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileOMbac9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57174/devtools/browser/06a9af4f-b65c-488a-be02-e3a65acad25c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669906750841	geckodriver	INFO	Listening on 127.0.0.1:57394
+1669906753918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileELh5iA"
+1669906754317	Marionette	INFO	Marionette enabled
+1669906754326	Marionette	INFO	Listening on port 57405
+Read port: 57405
+WebDriver BiDi listening on ws://127.0.0.1:57395
+1669906754515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileELh5iA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57395/devtools/browser/a1bde45f-12ec-4d56-91f3-1a173ff25767
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669907094852	geckodriver	INFO	Listening on 127.0.0.1:57751
+1669907097892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilek0Qj1u"
+1669907098301	Marionette	INFO	Marionette enabled
+1669907098307	Marionette	INFO	Listening on port 57766
+Read port: 57766
+WebDriver BiDi listening on ws://127.0.0.1:57752
+1669907098471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilek0Qj1u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57752/devtools/browser/c9e1f0ae-aa49-42e4-9856-5e078339c29f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669907107258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669907231011	geckodriver	INFO	Listening on 127.0.0.1:50066
+1669907234068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileZmJhWV"
+1669907234577	Marionette	INFO	Marionette enabled
+1669907234586	Marionette	INFO	Listening on port 50078
+Read port: 50078
+WebDriver BiDi listening on ws://127.0.0.1:50067
+1669907234834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileZmJhWV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50067/devtools/browser/f9f80e20-8238-4446-aaae-80c9f79cd223
+1669907378477	geckodriver	INFO	Listening on 127.0.0.1:50504
+1669907381531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilesPqbNc"
+1669907381933	Marionette	INFO	Marionette enabled
+1669907381939	Marionette	INFO	Listening on port 50517
+Read port: 50517
+WebDriver BiDi listening on ws://127.0.0.1:50505
+1669907382102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilesPqbNc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50505/devtools/browser/6eb59f1f-6f52-4ea3-9036-4386c5c6c9f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669907394740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669907438031	geckodriver	INFO	Listening on 127.0.0.1:50715
+1669907441092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilewsGBaN"
+1669907441524	Marionette	INFO	Marionette enabled
+1669907441530	Marionette	INFO	Listening on port 50727
+WebDriver BiDi listening on ws://127.0.0.1:50716
+Read port: 50727
+1669907441820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilewsGBaN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50716/devtools/browser/8d2efbbf-a580-49ff-aebd-d88f4d180de8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669907909990	geckodriver	INFO	Listening on 127.0.0.1:62577
+1669907913050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileYpu8jG"
+1669907913686	Marionette	INFO	Marionette enabled
+1669907913693	Marionette	INFO	Listening on port 62589
+Read port: 62589
+WebDriver BiDi listening on ws://127.0.0.1:62578
+1669907913880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileYpu8jG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62578/devtools/browser/c4254b8b-4f02-4b04-8ebb-c2744d59faf4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669907972767	geckodriver	INFO	Listening on 127.0.0.1:62697
+1669907975813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileWfEoMG"
+1669907976366	Marionette	INFO	Marionette enabled
+1669907976373	Marionette	INFO	Listening on port 62709
+Read port: 62709
+WebDriver BiDi listening on ws://127.0.0.1:62698
+1669907976546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileWfEoMG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62698/devtools/browser/83583f67-3cfb-4274-a07b-2587cb8dca76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669908051845	geckodriver	INFO	Listening on 127.0.0.1:62797
+1669908054900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileplNP61"
+1669908055377	Marionette	INFO	Marionette enabled
+1669908055387	Marionette	INFO	Listening on port 62808
+Read port: 62808
+WebDriver BiDi listening on ws://127.0.0.1:62798
+1669908055594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileplNP61\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62798/devtools/browser/6aac15c2-9740-4edc-a909-7447d0244df8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669908305678	geckodriver	INFO	Listening on 127.0.0.1:63017
+1669908308738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileb1zwRD"
+1669908309259	Marionette	INFO	Marionette enabled
+1669908309267	Marionette	INFO	Listening on port 63029
+Read port: 63029
+WebDriver BiDi listening on ws://127.0.0.1:63018
+1669908309447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileb1zwRD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63018/devtools/browser/aec43440-189b-4b2f-8efe-2d8140d8686a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669908372247	geckodriver	INFO	Listening on 127.0.0.1:63113
+1669908375316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileHixA0a"
+1669908375903	Marionette	INFO	Marionette enabled
+1669908375910	Marionette	INFO	Listening on port 63124
+Read port: 63124
+WebDriver BiDi listening on ws://127.0.0.1:63114
+1669908376186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1669908380651	geckodriver	INFO	Listening on 127.0.0.1:63134
+1669908383710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile3KCXEr"
+1669908384128	Marionette	INFO	Marionette enabled
+1669908384132	Marionette	INFO	Listening on port 63147
+Read port: 63147
+WebDriver BiDi listening on ws://127.0.0.1:63135
+1669908384293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile3KCXEr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63135/devtools/browser/a7c8fe88-18f8-47ac-aa4b-e30a22a83b96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669908540512	geckodriver	INFO	Listening on 127.0.0.1:63281
+1669908543545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile7TBYKg"
+1669908543973	Marionette	INFO	Marionette enabled
+1669908543979	Marionette	INFO	Listening on port 63293
+Read port: 63293
+WebDriver BiDi listening on ws://127.0.0.1:63282
+1669908544160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile7TBYKg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63282/devtools/browser/da2fe81a-7938-4884-876e-b0196236f228
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669923384977	geckodriver	INFO	Listening on 127.0.0.1:61740
+1669923388051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDMBIJl"
+1669923388420	Marionette	INFO	Marionette enabled
+1669923388425	Marionette	INFO	Listening on port 61752
+Read port: 61752
+WebDriver BiDi listening on ws://127.0.0.1:61741
+1669923388557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDMBIJl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61741/devtools/browser/d118e0e4-7251-4344-8a19-a5a26f9e03d4
+1669984501422	geckodriver	INFO	Listening on 127.0.0.1:54644
+1669984504476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile1txJ4t"
+1669984504907	Marionette	INFO	Marionette enabled
+1669984504912	Marionette	INFO	Listening on port 54655
+WebDriver BiDi listening on ws://127.0.0.1:54645
+Read port: 54655
+1669984505180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile1txJ4t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54645/devtools/browser/a2e84f4e-90ec-406e-8f2d-3bc2a528f914
+1669984579100	geckodriver	INFO	Listening on 127.0.0.1:54719
+1669984582154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofiley5xU6Q"
+1669984582460	Marionette	INFO	Marionette enabled
+1669984582465	Marionette	INFO	Listening on port 54732
+Read port: 54732
+WebDriver BiDi listening on ws://127.0.0.1:54720
+1669984582590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofiley5xU6Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54720/devtools/browser/80b73c1f-71fb-49a8-8db9-6af0ed3c7933
+1669984614030	geckodriver	INFO	Listening on 127.0.0.1:62392
+1669984617049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileU1wg1z"
+1669984617341	Marionette	INFO	Marionette enabled
+1669984617346	Marionette	INFO	Listening on port 62403
+Read port: 62403
+WebDriver BiDi listening on ws://127.0.0.1:62393
+1669984617470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileU1wg1z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62393/devtools/browser/e364f0e3-dc69-425d-8ac3-c355928fa11f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669990896629	geckodriver	INFO	Listening on 127.0.0.1:52718
+1669990899719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile5Chx1e"
+1669990900228	Marionette	INFO	Marionette enabled
+1669990900236	Marionette	INFO	Listening on port 52730
+Read port: 52730
+WebDriver BiDi listening on ws://127.0.0.1:52719
+1669990900391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile5Chx1e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52719/devtools/browser/0d8f1f2b-55fa-483e-bc14-bd7c13084920
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669990973960	geckodriver	INFO	Listening on 127.0.0.1:52809
+1669990977033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDQuCye"
+1669990977394	Marionette	INFO	Marionette enabled
+1669990977401	Marionette	INFO	Listening on port 52820
+Read port: 52820
+WebDriver BiDi listening on ws://127.0.0.1:52810
+1669990977562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileDQuCye\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52810/devtools/browser/6b56060c-80a0-4d74-83fa-da42063ff6c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669991011501	geckodriver	INFO	Listening on 127.0.0.1:52875
+1669991014542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52876" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilewZlmzc"
+1669991014887	Marionette	INFO	Marionette enabled
+1669991014893	Marionette	INFO	Listening on port 52886
+WebDriver BiDi listening on ws://127.0.0.1:52876
+Read port: 52886
+1669991015128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofilewZlmzc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52876/devtools/browser/4789c2bd-946d-4f52-b909-a3e84ad58d2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669991021039	Marionette	INFO	Stopped listening on port 52886
+1669991198700	geckodriver	INFO	Listening on 127.0.0.1:53021
+1669991201779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile6acz8m"
+1669991202118	Marionette	INFO	Marionette enabled
+1669991202124	Marionette	INFO	Listening on port 53033
+WebDriver BiDi listening on ws://127.0.0.1:53022
+Read port: 53033
+1669991202371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile6acz8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53022/devtools/browser/3f9880a1-f11a-4510-81b2-a4e2f2e90090
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669991208388	Marionette	INFO	Stopped listening on port 53033
+1669991232138	geckodriver	INFO	Listening on 127.0.0.1:53088
+1669991235210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileSZgDtf"
+1669991235540	Marionette	INFO	Marionette enabled
+1669991235546	Marionette	INFO	Listening on port 53099
+WebDriver BiDi listening on ws://127.0.0.1:53089
+Read port: 53099
+1669991235798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileSZgDtf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53089/devtools/browser/635c90ad-3544-48ca-9605-8812f59e5983
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669991245134	Marionette	INFO	Stopped listening on port 53099
+1669991306541	geckodriver	INFO	Listening on 127.0.0.1:53182
+1669991309603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileLCbcby"
+1669991309957	Marionette	INFO	Marionette enabled
+1669991309962	Marionette	INFO	Listening on port 53194
+Read port: 53194
+WebDriver BiDi listening on ws://127.0.0.1:53183
+1669991310184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileLCbcby\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53183/devtools/browser/d71ea438-915f-4a04-b867-8f2f8a6d8259
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669991318392	Marionette	INFO	Stopped listening on port 53194
+1669993142373	geckodriver	INFO	Listening on 127.0.0.1:61657
+1669993145435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileqwWRtp"
+1669993145935	Marionette	INFO	Marionette enabled
+1669993145941	Marionette	INFO	Listening on port 61669
+Read port: 61669
+WebDriver BiDi listening on ws://127.0.0.1:61658
+1669993146120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileqwWRtp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61658/devtools/browser/e469b73e-c331-4be7-9293-c3bc670e9835
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669993156399	Marionette	INFO	Stopped listening on port 61669
+1669993244527	geckodriver	INFO	Listening on 127.0.0.1:61758
+1669993247605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile5ddfch"
+1669993248002	Marionette	INFO	Marionette enabled
+1669993248009	Marionette	INFO	Listening on port 61770
+Read port: 61770
+WebDriver BiDi listening on ws://127.0.0.1:61759
+1669993248171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile5ddfch\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61759/devtools/browser/8eb93d60-c5c8-4589-b179-1e3bef89f5e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669993258327	Marionette	INFO	Stopped listening on port 61770
+1669995026620	geckodriver	INFO	Listening on 127.0.0.1:62817
+1669995029695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileNqXWYO"
+1669995029961	Marionette	INFO	Marionette enabled
+1669995029965	Marionette	INFO	Listening on port 62828
+Read port: 62828
+WebDriver BiDi listening on ws://127.0.0.1:62818
+1669995030083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileNqXWYO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62818/devtools/browser/36c7d9f2-5e88-47fc-a3e2-932aa87edc52
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995073336	geckodriver	INFO	Listening on 127.0.0.1:62890
+1669995076428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileMdHkFG"
+1669995076690	Marionette	INFO	Marionette enabled
+1669995076694	Marionette	INFO	Listening on port 62902
+Read port: 62902
+WebDriver BiDi listening on ws://127.0.0.1:62891
+1669995076818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileMdHkFG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62891/devtools/browser/bb20e65b-87f6-4069-9cbe-e54a6f7b4b35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995108227	geckodriver	INFO	Listening on 127.0.0.1:62952
+1669995111315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileJWIiMF"
+1669995111574	Marionette	INFO	Marionette enabled
+1669995111579	Marionette	INFO	Listening on port 62966
+Read port: 62966
+WebDriver BiDi listening on ws://127.0.0.1:62953
+1669995111699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileJWIiMF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62953/devtools/browser/bc23cc3f-afe1-4c06-8344-5f12cd0188ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995179455	geckodriver	INFO	Listening on 127.0.0.1:63040
+1669995182535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileXtqIhU"
+1669995182793	Marionette	INFO	Marionette enabled
+1669995182797	Marionette	INFO	Listening on port 63051
+Read port: 63051
+WebDriver BiDi listening on ws://127.0.0.1:63041
+1669995182924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileXtqIhU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63041/devtools/browser/a776827b-638b-4e13-b97f-e5234c563f7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995228851	geckodriver	INFO	Listening on 127.0.0.1:63115
+1669995231898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileqGcDut"
+1669995232220	Marionette	INFO	Marionette enabled
+1669995232224	Marionette	INFO	Listening on port 63127
+Read port: 63127
+WebDriver BiDi listening on ws://127.0.0.1:63116
+1669995232364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileqGcDut\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63116/devtools/browser/fb74788e-b684-4f9d-9167-3a807990e40c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995273248	geckodriver	INFO	Listening on 127.0.0.1:63196
+1669995276316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile3jBSpO"
+1669995276573	Marionette	INFO	Marionette enabled
+1669995276577	Marionette	INFO	Listening on port 63208
+Read port: 63208
+WebDriver BiDi listening on ws://127.0.0.1:63197
+1669995276686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofile3jBSpO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63197/devtools/browser/8da83922-1d11-4c0f-9e2f-4b5e6f3bfef3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995306819	geckodriver	INFO	Listening on 127.0.0.1:63264
+1669995309881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileOEKtIo"
+1669995310147	Marionette	INFO	Marionette enabled
+1669995310150	Marionette	INFO	Listening on port 63275
+Read port: 63275
+WebDriver BiDi listening on ws://127.0.0.1:63265
+1669995310291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileOEKtIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63265/devtools/browser/f5a8026e-cb21-44d6-b777-256f7bc48c5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995331013	geckodriver	INFO	Listening on 127.0.0.1:63324
+1669995334070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofiletyTmc4"
+1669995334403	Marionette	INFO	Marionette enabled
+1669995334410	Marionette	INFO	Listening on port 63336
+WebDriver BiDi listening on ws://127.0.0.1:63325
+Read port: 63336
+1669995334675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofiletyTmc4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63325/devtools/browser/8b0edb23-30ae-4bcb-9a5e-71edac07a5c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995341476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669995365438	geckodriver	INFO	Listening on 127.0.0.1:63408
+1669995368504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileRtvEMV"
+1669995368775	Marionette	INFO	Marionette enabled
+1669995368780	Marionette	INFO	Listening on port 63420
+Read port: 63420
+WebDriver BiDi listening on ws://127.0.0.1:63409
+1669995368893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileRtvEMV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63409/devtools/browser/b43a91a1-4a75-4d5a-a45e-82807f9cb4bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1669995445270	geckodriver	INFO	Listening on 127.0.0.1:63500
+1669995448346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileU5OB49"
+1669995448612	Marionette	INFO	Marionette enabled
+1669995448616	Marionette	INFO	Listening on port 63512
+Read port: 63512
+WebDriver BiDi listening on ws://127.0.0.1:63501
+1669995448730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileU5OB49\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63501/devtools/browser/c0abbdfa-4e61-42ce-b222-f0a789a765eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1670006605225	geckodriver	INFO	Listening on 127.0.0.1:51084
+1670006608314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileBzYyVu"
+1670006608673	Marionette	INFO	Marionette enabled
+1670006608677	Marionette	INFO	Listening on port 51098
+WebDriver BiDi listening on ws://127.0.0.1:51085
+Read port: 51098
+1670006608886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUIS_S~1\\AppData\\Local\\Temp\\rust_mozprofileBzYyVu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51085/devtools/browser/c715b53d-4ccc-438b-84bd-6545343dff98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://turnera-frontend-administracion-app-turnera-pre-qa.apps.ocp4-dev.gcba.gob.ar."
+1670006615137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31

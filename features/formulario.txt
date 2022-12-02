@@ -1,0 +1,20 @@
+Feature:Nuestro primer Demo
+  Background:
+    Given iniciando Navegador
+
+  Scenario Outline: : Se visualiza  Formulario
+    When Escribiendo nombre "<Nombre>" y "<Apellido>"
+    When Escribiendo  email "<email>"
+    Then Seleccionando Genero
+    Then Escribiendo Numero de celular "1150163630"
+    Then Seleccionando Subjects
+    Then Seleccionando Hobbies
+    Then Cargando Archivo
+    #Then Ingresando Direccion "Direccion"
+    Then Seleccionando Estado y ciudad, pulsamos boton Submit,se visualiza modulo de formulario
+
+    Examples:
+    |Nombre|Apellido|email|
+    |luis  |sandoval|l@g.com|
+    #|Nombre3|email3@gmail.com|3@g.com|
+
